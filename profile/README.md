@@ -3,11 +3,7 @@
   <img src="https://raw.githubusercontent.com/AI-Automation-Innovators/.github/main/profile/banner.png" alt="AI Automation Innovators Banner" />
 </p>
 
-<h1 align="center">AI Automation Innovators</h1>
-<p align="center">
-  Building, teaching, and sharing real-world <b>AI-powered automations</b>.<br/>
-  n8n • Supabase • Lovable.dev • LangChain • Claude • LateNode
-</p>
+
 
 <p align="center">
   <a href="https://www.skool.com/aiautoinnovate">Community</a> •
